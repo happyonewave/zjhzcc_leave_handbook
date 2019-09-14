@@ -1,0 +1,38 @@
+# 请假
+
+*总体步骤：* `点击下方按钮 > 选择请假 > 填写完成后确定 > 左滑可修改与删除`
+
+*注意事项：*
+
+- 请务必确认[易班校方认证](#校方认证)信息准确
+- 请假请至少提前 1 天请假
+- 请按照提示格式填写
+- 如对返回提示有疑问请使用[反馈](#反馈)功能反馈
+
+##1. 点击下方按钮请假
+
+![](https://tva1.sinaimg.cn/large/006y8mN6ly1g6t6yu48x5j30hq0uqjs3.jpg)
+
+##2. 选择请假
+
+![](https://tva1.sinaimg.cn/large/006y8mN6ly1g6t70fhn9uj30hq0ugq3s.jpg)
+
+##3. 进入请假界面
+
+![](https://tva1.sinaimg.cn/large/006y8mN6ly1g6t746zd6ij30hs0uk74r.jpg)
+
+##4. 填写完成后确定
+
+![](https://tva1.sinaimg.cn/large/006y8mN6ly1g6t74zlu6tj30hs0uimxp.jpg)
+
+##5. 提交中
+
+![](https://tva1.sinaimg.cn/large/006y8mN6ly1g6t75hc83oj30hs0uit9e.jpg)
+
+##6. 提交成功
+
+![](https://tva1.sinaimg.cn/large/006y8mN6ly1g6t75ss99dj30hw0uoq3f.jpg)
+
+##7. 左滑可修改与删除
+
+![](https://tva1.sinaimg.cn/large/006y8mN6ly1g6t76thro9j30hw0uogm0.jpg)
