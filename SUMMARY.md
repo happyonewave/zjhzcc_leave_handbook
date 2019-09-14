@@ -15,8 +15,8 @@
     * [设置角色](teacher/set_role.md)
     * [联系学生](teacher/call_student.md)
     * [审核](teacher/check.md)
-* [管理使用说明](administrator/index.md)
-    * [登录](administrator/login.md)
+<!--* [管理使用说明](administrator/index.md)
+    * [登录](administrator/login.md)-->
 * [另外](else/index.md)
     * [使用管理端须认证为管理员](else/administrator_verify.md)
 * [反馈](feedback/index.md)
